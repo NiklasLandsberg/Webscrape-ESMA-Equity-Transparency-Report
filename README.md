@@ -9,4 +9,4 @@ The script opens Chrome and leads the website load so that the table can render.
 Then it webscrapes the table identified with detailParent.
 Finally, the website closes it.
 
-Disclaimer: The script is only for equity instruments and only for the YEAR method.
+Disclaimer: The scripts are only for equity instruments and only for the YEAR method.
