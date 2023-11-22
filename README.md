@@ -7,6 +7,6 @@ Nevertheless, I created an R script using reticulate for non-Python users.
 It is important that the user has Google Chrome on her computer installed.
 The script opens Chrome and leads the website load so that the table can render.
 Then it webscrapes the table identified with detailParent.
-Finaly, the website closes it.
+Finally, the website closes it.
 
 Disclaimer: The script is only for equity instruments and only for the YEAR method.
