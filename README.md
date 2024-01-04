@@ -5,7 +5,7 @@ As such, the original function is in Python.
 Nevertheless, I created an R script using reticulate for non-Python users.
 
 It is important that the user has Google Chrome on her computer installed.
-The script opens Chrome and leads the website load so that the table can render.
+The script opens Chrome to load the website so that the table can render.
 Then it webscrapes the table identified with detailParent.
 Finally, the website closes it.
 
